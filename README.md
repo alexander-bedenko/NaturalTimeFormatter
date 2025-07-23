@@ -28,10 +28,10 @@ Fully localized and suitable for use in:
 ## 🔧 Example Usage
 
 ```csharp
-var formatter = NaturalTime.CreateFormatter("ru");
+var formatter = NaturalTime.CreateFormatter(culture);
 
 var fiveMinutesAgo = DateTimeOffset.Now.AddMinutes(-5);
-Console.WriteLine(formatter.Format(fiveMinutesAgo)); // "5 минут назад"
+Console.WriteLine(formatter.Format(fiveMinutesAgo)); // "5 минут назад" / "5 minutes ago"
 
 var tomorrow = DateTimeOffset.Now.AddDays(1).AddHours(3);
-Console.WriteLine(formatter.Format(tomorrow)); // "завтра в 03:00"
+Console.WriteLine(formatter.Format(tomorrow)); // "завтра в 03:00" / "tomorrow at 03:00"
