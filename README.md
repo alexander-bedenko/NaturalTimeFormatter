@@ -18,7 +18,7 @@ Fully localized and suitable for use in:
 ## 🌟 Features
 
 - ✅ Easy-to-read natural time formatting
-- 🌍 Localization support (currently: `ru`, `en`, `de`, `pl`, `fr`, `es`, `it`)
+- 🌍 Localization support (currently: `ru`, `en`, `de`, `pl`, `fr`, `es`, `it`, `by`, `kr`, `jp`, `cn`, `be`)
 - 🧩 Extensible formatter interface
 - 💡 Suitable for both frontend and backend projects
 - 📦 Lightweight — no external dependencies
