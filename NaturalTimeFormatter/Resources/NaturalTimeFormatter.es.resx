@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, ...</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, ...</value>
+  </resheader>
+	<data name="JustNow"><value>justo ahora</value></data>
+	<data name="MinutesAgo"><value>hace {0} minutos</value></data>
+	<data name="InMinutes"><value>en {0} minutos</value></data>
+	<data name="HourAgo"><value>hace una hora</value></data>
+	<data name="HoursAgo"><value>hace {0} horas</value></data>
+	<data name="ManyHoursAgo"><value>hace {0} horas</value></data>
+	<data name="InHour"><value>en una hora</value></data>
+	<data name="InHours"><value>en {0} horas</value></data>
+	<data name="InManyHours"><value>en {0} horas</value></data>
+	<data name="TodayAt"><value>hoy a las {0}</value></data>
+	<data name="YesterdayAt"><value>ayer a las {0}</value></data>
+	<data name="TomorrowAt"><value>mañana a las {0}</value></data>
+	<data name="DayAfterTomorrowAt"><value>pasado mañana a las {0}</value></data>
+	<data name="DaysAgo"><value>hace {0} días</value></data>
+	<data name="InDays"><value>en {0} días</value></data>
+	<data name="MonthAgo"><value>hace un mes</value></data>
+	<data name="MonthsAgo"><value>hace {0} meses</value></data>
+	<data name="InMonth"><value>en un mes</value></data>
+	<data name="InMonths"><value>en {0} meses</value></data>
+	<data name="YearAgo"><value>hace un año</value></data>
+	<data name="YearsAgo"><value>hace {0} años</value></data>
+	<data name="InYear"><value>en un año</value></data>
+	<data name="InYears"><value>en {0} años</value></data>
+	<data name="DayOfWeekAt"><value>el {0} a las {1}</value></data>
+	<data name="DateTimeFormat"><value>d MMM yyyy 'a las' HH:mm</value></data>
+</root>

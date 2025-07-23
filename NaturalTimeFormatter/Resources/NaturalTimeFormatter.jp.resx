@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, ...</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, ...</value>
+  </resheader>
+	<data name="JustNow" xml:space="preserve"><value>たった今</value></data>
+	<data name="MinutesAgo" xml:space="preserve"><value>{0}分前</value></data>
+	<data name="InMinutes" xml:space="preserve"><value>{0}分後</value></data>
+	<data name="HourAgo" xml:space="preserve"><value>1時間前</value></data>
+	<data name="HoursAgo" xml:space="preserve"><value>{0}時間前</value></data>
+	<data name="ManyHoursAgo" xml:space="preserve"><value>{0}時間前</value></data>
+	<data name="InHour" xml:space="preserve"><value>1時間後</value></data>
+	<data name="InHours" xml:space="preserve"><value>{0}時間後</value></data>
+	<data name="InManyHours" xml:space="preserve"><value>{0}時間後</value></data>
+	<data name="TodayAt" xml:space="preserve"><value>今日 {0}</value></data>
+	<data name="YesterdayAt" xml:space="preserve"><value>昨日 {0}</value></data>
+	<data name="TomorrowAt" xml:space="preserve"><value>明日 {0}</value></data>
+	<data name="DayAfterTomorrowAt" xml:space="preserve"><value>明後日 {0}</value></data>
+	<data name="DaysAgo" xml:space="preserve"><value>{0}日前</value></data>
+	<data name="InDays" xml:space="preserve"><value>{0}日後</value></data>
+	<data name="MonthAgo" xml:space="preserve"><value>1か月前</value></data>
+	<data name="MonthsAgo" xml:space="preserve"><value>{0}か月前</value></data>
+	<data name="InMonth" xml:space="preserve"><value>1か月後</value></data>
+	<data name="InMonths" xml:space="preserve"><value>{0}か月後</value></data>
+	<data name="YearAgo" xml:space="preserve"><value>1年前</value></data>
+	<data name="YearsAgo" xml:space="preserve"><value>{0}年前</value></data>
+	<data name="InYear" xml:space="preserve"><value>1年後</value></data>
+	<data name="InYears" xml:space="preserve"><value>{0}年後</value></data>
+	<data name="DayOfWeekAt" xml:space="preserve"><value>{0}の{1}</value></data>
+	<data name="DateTimeFormat" xml:space="preserve"><value>yyyy年M月d日 HH:mm</value></data>
+</root>

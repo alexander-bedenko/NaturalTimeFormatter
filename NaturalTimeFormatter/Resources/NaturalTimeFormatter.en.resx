@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, ...</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, ...</value>
+  </resheader>
+  <data name="JustNow" xml:space="preserve"><value>just now</value></data>
+  <data name="MinutesAgo" xml:space="preserve"><value>{0} minutes ago</value></data>
+  <data name="InMinutes" xml:space="preserve"><value>in {0} minutes</value></data>
+  <data name="HourAgo" xml:space="preserve"><value>an hour ago</value></data>
+  <data name="HoursAgo" xml:space="preserve"><value>{0} hours ago</value></data>
+  <data name="ManyHoursAgo" xml:space="preserve"><value>{0} hours ago</value></data>
+  <data name="InHour" xml:space="preserve"><value>in an hour</value></data>
+  <data name="InHours" xml:space="preserve"><value>in {0} hours</value></data>
+  <data name="InManyHours" xml:space="preserve"><value>in {0} hours</value></data>
+  <data name="TodayAt" xml:space="preserve"><value>today at {0}</value></data>
+  <data name="YesterdayAt" xml:space="preserve"><value>yesterday at {0}</value></data>
+  <data name="TomorrowAt" xml:space="preserve"><value>tomorrow at {0}</value></data>
+  <data name="DayAfterTomorrowAt" xml:space="preserve"><value>the day after tomorrow at {0}</value></data>
+  <data name="DaysAgo" xml:space="preserve"><value>{0} days ago</value></data>
+  <data name="InDays" xml:space="preserve"><value>in {0} days</value></data>
+  <data name="MonthAgo" xml:space="preserve"><value>a month ago</value></data>
+  <data name="MonthsAgo" xml:space="preserve"><value>{0} months ago</value></data>
+  <data name="InMonth" xml:space="preserve"><value>in a month</value></data>
+  <data name="InMonths" xml:space="preserve"><value>in {0} months</value></data>
+  <data name="YearAgo" xml:space="preserve"><value>a year ago</value></data>
+  <data name="YearsAgo" xml:space="preserve"><value>{0} years ago</value></data>
+  <data name="InYear" xml:space="preserve"><value>in a year</value></data>
+  <data name="InYears" xml:space="preserve"><value>in {0} years</value></data>
+  <data name="DayOfWeekAt" xml:space="preserve"><value>on {0} at {1}</value></data>
+  <data name="DateTimeFormat" xml:space="preserve"><value>d MMM yyyy 'at' HH:mm</value></data>
+</root>

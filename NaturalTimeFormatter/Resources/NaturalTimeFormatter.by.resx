@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, ...</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, ...</value>
+  </resheader>
+	<data name="JustNow"><value>толькі што</value></data>
+	<data name="MinutesAgo"><value>{0} хвілін таму</value></data>
+	<data name="InMinutes"><value>праз {0} хвілін</value></data>
+	<data name="HourAgo"><value>гадзіну таму</value></data>
+	<data name="HoursAgo"><value>{0} гадзін таму</value></data>
+	<data name="ManyHoursAgo"><value>{0} гадзін таму</value></data>
+	<data name="InHour"><value>праз гадзіну</value></data>
+	<data name="InHours"><value>праз {0} гадзін</value></data>
+	<data name="InManyHours"><value>праз {0} гадзін</value></data>
+	<data name="TodayAt"><value>сёння ў {0}</value></data>
+	<data name="YesterdayAt"><value>учора ў {0}</value></data>
+	<data name="TomorrowAt"><value>заўтра ў {0}</value></data>
+	<data name="DayAfterTomorrowAt"><value>паслязаўтра ў {0}</value></data>
+	<data name="DaysAgo"><value>{0} дзён таму</value></data>
+	<data name="InDays"><value>праз {0} дзён</value></data>
+	<data name="MonthAgo"><value>месяц таму</value></data>
+	<data name="MonthsAgo"><value>{0} месяцаў таму</value></data>
+	<data name="InMonth"><value>праз месяц</value></data>
+	<data name="InMonths"><value>праз {0} месяцаў</value></data>
+	<data name="YearAgo"><value>год таму</value></data>
+	<data name="YearsAgo"><value>{0} гадоў таму</value></data>
+	<data name="InYear"><value>праз год</value></data>
+	<data name="InYears"><value>праз {0} гадоў</value></data>
+	<data name="DayOfWeekAt"><value>{0} у {1}</value></data>
+	<data name="DateTimeFormat"><value>d MMM yyyy 'у' HH:mm</value></data>
+</root>
