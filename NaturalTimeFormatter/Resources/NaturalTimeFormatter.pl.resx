@@ -17,10 +17,8 @@
 	<data name="InMinutes"><value>za {0} minut</value></data>
 	<data name="HourAgo"><value>godzinę temu</value></data>
 	<data name="HoursAgo"><value>{0} godzin temu</value></data>
-	<data name="ManyHoursAgo"><value>{0} godzin temu</value></data>
 	<data name="InHour"><value>za godzinę</value></data>
 	<data name="InHours"><value>za {0} godzin</value></data>
-	<data name="InManyHours"><value>za {0} godzin</value></data>
 	<data name="TodayAt"><value>dzisiaj o {0}</value></data>
 	<data name="YesterdayAt"><value>wczoraj o {0}</value></data>
 	<data name="TomorrowAt"><value>jutro o {0}</value></data>
@@ -37,4 +35,23 @@
 	<data name="InYears"><value>za {0} lat</value></data>
 	<data name="DayOfWeekAt"><value>{0} o {1}</value></data>
 	<data name="DateTimeFormat"><value>d MMM yyyy 'o' HH:mm</value></data>
+	<data name="MinuteAgo"><value>minutę temu</value></data>
+	<data name="InMinute"><value>za minutę</value></data>
+	<data name="DayBeforeYesterdayAt"><value>przedwczoraj o {0}</value></data>
+	<data name="WeekAgo"><value>tydzień temu</value></data>
+	<data name="WeeksAgo"><value>{0} tygodni temu</value></data>
+	<data name="InWeek"><value>za tydzień</value></data>
+	<data name="InWeeks"><value>za {0} tygodni</value></data>
+	<data name="MinutesAgo_Few"><value>{0} minuty temu</value></data>
+	<data name="InMinutes_Few"><value>za {0} minuty</value></data>
+	<data name="HoursAgo_Few"><value>{0} godziny temu</value></data>
+	<data name="InHours_Few"><value>za {0} godziny</value></data>
+	<data name="DaysAgo_Few"><value>{0} dni temu</value></data>
+	<data name="InDays_Few"><value>za {0} dni</value></data>
+	<data name="WeeksAgo_Few"><value>{0} tygodnie temu</value></data>
+	<data name="InWeeks_Few"><value>za {0} tygodnie</value></data>
+	<data name="MonthsAgo_Few"><value>{0} miesiące temu</value></data>
+	<data name="InMonths_Few"><value>za {0} miesiące</value></data>
+	<data name="YearsAgo_Few"><value>{0} lata temu</value></data>
+	<data name="InYears_Few"><value>za {0} lata</value></data>
 </root>

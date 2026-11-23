@@ -17,10 +17,8 @@
 	<data name="InMinutes" xml:space="preserve"><value>{0}分後</value></data>
 	<data name="HourAgo" xml:space="preserve"><value>1時間前</value></data>
 	<data name="HoursAgo" xml:space="preserve"><value>{0}時間前</value></data>
-	<data name="ManyHoursAgo" xml:space="preserve"><value>{0}時間前</value></data>
 	<data name="InHour" xml:space="preserve"><value>1時間後</value></data>
 	<data name="InHours" xml:space="preserve"><value>{0}時間後</value></data>
-	<data name="InManyHours" xml:space="preserve"><value>{0}時間後</value></data>
 	<data name="TodayAt" xml:space="preserve"><value>今日 {0}</value></data>
 	<data name="YesterdayAt" xml:space="preserve"><value>昨日 {0}</value></data>
 	<data name="TomorrowAt" xml:space="preserve"><value>明日 {0}</value></data>
@@ -37,4 +35,11 @@
 	<data name="InYears" xml:space="preserve"><value>{0}年後</value></data>
 	<data name="DayOfWeekAt" xml:space="preserve"><value>{0}の{1}</value></data>
 	<data name="DateTimeFormat" xml:space="preserve"><value>yyyy年M月d日 HH:mm</value></data>
+	<data name="MinuteAgo" xml:space="preserve"><value>1分前</value></data>
+	<data name="InMinute" xml:space="preserve"><value>1分後</value></data>
+	<data name="DayBeforeYesterdayAt" xml:space="preserve"><value>一昨日 {0}</value></data>
+	<data name="WeekAgo" xml:space="preserve"><value>1週間前</value></data>
+	<data name="WeeksAgo" xml:space="preserve"><value>{0}週間前</value></data>
+	<data name="InWeek" xml:space="preserve"><value>1週間後</value></data>
+	<data name="InWeeks" xml:space="preserve"><value>{0}週間後</value></data>
 </root>

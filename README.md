@@ -5,6 +5,8 @@
 - `5 minutes ago`
 - `in 2 days`
 - `yesterday at 14:20`
+- `the day before yesterday at 09:15`
+- `2 weeks ago` / `in a minute`
 
 Fully localized and suitable for use in:
 - 🟢 Telegram bots
@@ -18,7 +20,8 @@ Fully localized and suitable for use in:
 ## 🌟 Features
 
 - ✅ Easy-to-read natural time formatting
-- 🌍 Localization support (currently: `ru`, `en`, `de`, `pl`, `fr`, `es`, `it`, `by`, `kr`, `jp`, `cn`, `be`)
+- 🔢 Correct plural forms for Slavic languages (`1 минуту`, `2 минуты`, `5 минут`)
+- 🌍 Localization support (currently: `ru`, `en`, `de`, `pl`, `fr`, `es`, `it`, `nl`, `be`, `ko`, `ja`, `zh`; unknown cultures fall back to English)
 - 🧩 Extensible formatter interface
 - 💡 Suitable for both frontend and backend projects
 - 📦 Lightweight — no external dependencies

@@ -17,10 +17,8 @@
 	<data name="InMinutes"><value>dans {0} minutes</value></data>
 	<data name="HourAgo"><value>il y a une heure</value></data>
 	<data name="HoursAgo"><value>il y a {0} heures</value></data>
-	<data name="ManyHoursAgo"><value>il y a {0} heures</value></data>
 	<data name="InHour"><value>dans une heure</value></data>
 	<data name="InHours"><value>dans {0} heures</value></data>
-	<data name="InManyHours"><value>dans {0} heures</value></data>
 	<data name="TodayAt"><value>aujourd'hui à {0}</value></data>
 	<data name="YesterdayAt"><value>hier à {0}</value></data>
 	<data name="TomorrowAt"><value>demain à {0}</value></data>
@@ -37,4 +35,11 @@
 	<data name="InYears"><value>dans {0} ans</value></data>
 	<data name="DayOfWeekAt"><value>{0} à {1}</value></data>
 	<data name="DateTimeFormat"><value>d MMM yyyy 'à' HH:mm</value></data>
+	<data name="MinuteAgo"><value>il y a une minute</value></data>
+	<data name="InMinute"><value>dans une minute</value></data>
+	<data name="DayBeforeYesterdayAt"><value>avant-hier à {0}</value></data>
+	<data name="WeekAgo"><value>il y a une semaine</value></data>
+	<data name="WeeksAgo"><value>il y a {0} semaines</value></data>
+	<data name="InWeek"><value>dans une semaine</value></data>
+	<data name="InWeeks"><value>dans {0} semaines</value></data>
 </root>

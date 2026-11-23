@@ -17,10 +17,8 @@
   <data name="InMinutes" xml:space="preserve"><value>in {0} minutes</value></data>
   <data name="HourAgo" xml:space="preserve"><value>an hour ago</value></data>
   <data name="HoursAgo" xml:space="preserve"><value>{0} hours ago</value></data>
-  <data name="ManyHoursAgo" xml:space="preserve"><value>{0} hours ago</value></data>
   <data name="InHour" xml:space="preserve"><value>in an hour</value></data>
   <data name="InHours" xml:space="preserve"><value>in {0} hours</value></data>
-  <data name="InManyHours" xml:space="preserve"><value>in {0} hours</value></data>
   <data name="TodayAt" xml:space="preserve"><value>today at {0}</value></data>
   <data name="YesterdayAt" xml:space="preserve"><value>yesterday at {0}</value></data>
   <data name="TomorrowAt" xml:space="preserve"><value>tomorrow at {0}</value></data>
@@ -37,4 +35,11 @@
   <data name="InYears" xml:space="preserve"><value>in {0} years</value></data>
   <data name="DayOfWeekAt" xml:space="preserve"><value>on {0} at {1}</value></data>
   <data name="DateTimeFormat" xml:space="preserve"><value>d MMM yyyy 'at' HH:mm</value></data>
+	<data name="MinuteAgo" xml:space="preserve"><value>a minute ago</value></data>
+	<data name="InMinute" xml:space="preserve"><value>in a minute</value></data>
+	<data name="DayBeforeYesterdayAt" xml:space="preserve"><value>the day before yesterday at {0}</value></data>
+	<data name="WeekAgo" xml:space="preserve"><value>a week ago</value></data>
+	<data name="WeeksAgo" xml:space="preserve"><value>{0} weeks ago</value></data>
+	<data name="InWeek" xml:space="preserve"><value>in a week</value></data>
+	<data name="InWeeks" xml:space="preserve"><value>in {0} weeks</value></data>
 </root>

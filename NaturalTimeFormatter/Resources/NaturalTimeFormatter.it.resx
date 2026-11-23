@@ -17,10 +17,8 @@
 	<data name="InMinutes"><value>tra {0} minuti</value></data>
 	<data name="HourAgo"><value>un'ora fa</value></data>
 	<data name="HoursAgo"><value>{0} ore fa</value></data>
-	<data name="ManyHoursAgo"><value>{0} ore fa</value></data>
 	<data name="InHour"><value>tra un'ora</value></data>
 	<data name="InHours"><value>tra {0} ore</value></data>
-	<data name="InManyHours"><value>tra {0} ore</value></data>
 	<data name="TodayAt"><value>oggi alle {0}</value></data>
 	<data name="YesterdayAt"><value>ieri alle {0}</value></data>
 	<data name="TomorrowAt"><value>domani alle {0}</value></data>
@@ -37,4 +35,11 @@
 	<data name="InYears"><value>tra {0} anni</value></data>
 	<data name="DayOfWeekAt"><value>{0} alle {1}</value></data>
 	<data name="DateTimeFormat"><value>d MMM yyyy 'alle' HH:mm</value></data>
+	<data name="MinuteAgo"><value>un minuto fa</value></data>
+	<data name="InMinute"><value>tra un minuto</value></data>
+	<data name="DayBeforeYesterdayAt"><value>l'altro ieri alle {0}</value></data>
+	<data name="WeekAgo"><value>una settimana fa</value></data>
+	<data name="WeeksAgo"><value>{0} settimane fa</value></data>
+	<data name="InWeek"><value>tra una settimana</value></data>
+	<data name="InWeeks"><value>tra {0} settimane</value></data>
 </root>
