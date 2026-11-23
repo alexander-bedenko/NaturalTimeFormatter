@@ -55,6 +55,14 @@ namespace NaturalTimeFormatter
                         if (mod10 is >= 2 and <= 4 && mod100 is < 12 or > 14) return "Few";
                         return null;
                     };
+                case "cs":
+                case "sk":
+                    return n => n switch
+                    {
+                        1 => "One",
+                        >= 2 and <= 4 => "Few",
+                        _ => null
+                    };
                 default:
                     return _ => null;
             }

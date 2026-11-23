@@ -20,8 +20,8 @@ Fully localized and suitable for use in:
 ## 🌟 Features
 
 - ✅ Easy-to-read natural time formatting
-- 🔢 Correct plural forms for Slavic languages (`1 минуту`, `2 минуты`, `5 минут`)
-- 🌍 Localization support (currently: `ru`, `en`, `de`, `pl`, `fr`, `es`, `it`, `nl`, `be`, `ko`, `ja`, `zh`; unknown cultures fall back to English)
+- 🔢 Correct plural forms for Slavic languages (ru, uk, be, pl, cs) (`1 минуту`, `2 минуты`, `5 минут`)
+- 🌍 Localization support (currently: `ru`, `en`, `de`, `pl`, `fr`, `es`, `it`, `nl`, `be`, `uk`, `cs`, `pt`, `sv`, `fi`, `tr`, `ko`, `ja`, `zh`; unknown cultures fall back to English)
 - 🧩 Extensible formatter interface
 - 💡 Suitable for both frontend and backend projects
 - 📦 Lightweight — no external dependencies
