@@ -6,4 +6,22 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>NaturalTimeFormatter</PackageId>
+    <Version>1.0.2</Version>
+    <Authors>Alexander Bedenko</Authors>
+    <Description>Formats DateTime in a human-friendly localized natural language form.</Description>
+    <PackageTags>datetime localization natural human-friendly</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/alexander-bedenko/NaturalTimeFormatter</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <PackageReleaseNotes>New phrases (a minute, day before yesterday, weeks); correct plural forms for ru/uk/be/pl/cs; new languages uk, pt, tr, cs, sv, fi; locale codes fixed (nl, be, zh, ja, ko); English fallback for unknown cultures.</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
 </Project>
